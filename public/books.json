@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "description": "Explores the history of humankind from the Stone Age to the modern age, highlighting how shared beliefs shaped societies."
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "A guide on how small, consistent habits can compound into life-changing results through proven strategies and frameworks."
+  },
+  {
+    "id": 3,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "description": "Focuses on mindfulness and living in the present moment as the key to spiritual enlightenment and peace."
+  },
+  {
+    "id": 4,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "description": "Discusses the benefits of focused, distraction-free work and strategies to maximize productivity and creativity."
+  },
+  {
+    "id": 5,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "description": "Explains the two systems of thinking: fast, intuitive responses and slow, deliberate reasoning, and how they shape decisions."
+  },
+  {
+    "id": 6,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "description": "Introduces the lean startup methodology to build and scale businesses using rapid experimentation and customer feedback."
+  },
+  {
+    "id": 7,
+    "title": "Can’t Hurt Me",
+    "author": "David Goggins",
+    "description": "An autobiography of Navy SEAL David Goggins, showing how discipline and mental toughness can overcome obstacles."
+  },
+  {
+    "id": 8,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "description": "Explores how to create groundbreaking startups that build unique products and shape the future economy."
+  },
+  {
+    "id": 9,
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "description": "A Holocaust survivor’s memoir and psychological exploration of finding purpose even in suffering."
+  },
+  {
+    "id": 10,
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "description": "Provides timeless principles for personal and professional effectiveness, focusing on proactive behavior and leadership."
+  }
+]
