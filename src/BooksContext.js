@@ -13,6 +13,6 @@ export const BooksProvider = ({ children }) => {
   }, []);
 
   return (
-    <BooksProvider.Provider value={books}>{children}</BooksProvider.Provider>
+    <BooksContext.Provider value={books}>{children}</BooksContext.Provider>
   );
 };
