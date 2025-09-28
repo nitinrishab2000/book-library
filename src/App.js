@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import { BooksProvider } from "./BooksContext";
 import Books from "./components/Books";
+import { PrivateRoute } from "./components/PrivateRoute";
 import {
   BrowserRouter as Router,
   Routes,
@@ -10,6 +11,7 @@ import {
 } from "react-router-dom";
 import BookDetails from "./components/BookDetails";
 import NotFound from "./components/NotFound";
+import SecretBooks from "./components/SecretBooks";
 
 function App() {
   return (
@@ -23,6 +25,14 @@ function App() {
             element={<BookDetails></BookDetails>}
           ></Route>
           <Route path="*" element={<NotFound></NotFound>}></Route>
+          <Route
+            path="/secret"
+            element={
+              <PrivateRoute
+                Component={<SecretBooks></SecretBooks>}
+              ></PrivateRoute>
+            }
+          ></Route>
         </Routes>
       </Router>
     </BooksProvider>
